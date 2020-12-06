@@ -7,3 +7,6 @@ Good with management skills and public speaking. I've also worked across a wide 
 - 🌱 Now, I'm getting my hands dirty on Data Science 
 - 📫 Reach me on me@whoissahil.com
 - ⚡ Fun fact: You cant be a bigger Potterhead than me
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3f70432-bd8f-491a-ac71-f0196048ca2e/deploy-status)](https://app.netlify.com/sites/whoissahil/deploys)
