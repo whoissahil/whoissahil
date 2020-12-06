@@ -98,7 +98,7 @@ function Header() {
             <div className={`app-sidenav ${displaySidenav && "active"}`}>
                 <div className="sidenav-menu">
                     <div className="logo">
-                        <Link to={`url`.replace(/([^:])(\/\/+)/g, "$1/")}>Sahil</Link>
+                        <Link to={``.replace(/([^:])(\/\/+)/g, "$1/")}>Sahil</Link>
                     </div>
                     <button className="button" onClick={(e) => handleClick(e)}></button>
                     <ul className="sidenav-nav">
