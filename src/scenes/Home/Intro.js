@@ -70,6 +70,12 @@ function Intro() {
                                 <a href="https://docs.google.com/document/d/1eQoTG7tInq4b5CXQ6gOepA0_LCQz9eaP7YY-W3jxxyQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Brag-Sheet (CV) <span role="img" aria-label="document">📄</span></a>
                             </p>
                         </div>
+                        <br />
+                        <div className="el-icon">
+                            <h4 className="el-icon-title">
+                                <span role="img" aria-label="document">👋</span> <a href="mailto:hello@whoissahil.com" target="_blank" rel="noopener noreferrer">hello@whoissahil.com</a>
+                            </h4>
+                        </div> 
                     </div>
                 </Container>
             </div>
