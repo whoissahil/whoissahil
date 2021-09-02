@@ -92,7 +92,7 @@ function Header() {
                             </a>
                         </li>
                     </ul>
-                    <p>Follow Me</p>
+                    <p>Let's Connect :)</p>
                 </div>
             </header>
             <div className={`app-sidenav ${displaySidenav && "active"}`}>
@@ -128,7 +128,7 @@ function Header() {
                                 </a>
                             </li>
                         </ul>
-                        <p>Follow Me</p>
+                        <p>Let's Connect :)</p>
                     </div>
                 </div>
                 <span className="sidenav-close" />
