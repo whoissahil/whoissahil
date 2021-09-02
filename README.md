@@ -3,7 +3,7 @@ I am a Computer Science Engineer from BITS Pilani, Dubai Campus. A business-focu
 
 Good with management skills and public speaking. I've also worked across a wide array of industry 4.0 technologies including Big Data, Blockchain, machine learning, AI, AR, and IoT. Basically, While ( ! ( succeed = try() ) ); 
 
-- 🔭 I’m currently a Web Developer
+- 🔭 I’m currently a Data Analyst
 - 🌱 Now, I'm getting my hands dirty on Data Science 
 - 📫 Reach me on hello@whoissahil.com
 - ⚡ Fun fact: You cant be a bigger Potterhead than me
