@@ -59,7 +59,7 @@ function Intro() {
                             I'm a{" "}
                             <TextLoop>
                                 <span>Web Developer</span>
-                                <span>Data Scientist</span>
+                                <span>Data Analyst</span>
                                 <span>Writer</span>
                             </TextLoop>
                             <br />
