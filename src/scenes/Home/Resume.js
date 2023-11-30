@@ -19,7 +19,7 @@ const skills = [
         percent: 75,
     },
     {
-        title: "Data Science",
+        title: "Data Analytics & Science",
         percent: 80,
     },
     {
@@ -69,23 +69,37 @@ const education = [
 ];
 const experience = [
     {
-        title: "Web Developer",
-        subtitle: "DLX Holiday Homes Rental LLC | Dubai",
-        description: "Designed the user experience for the website and finalize the technology stack for the consumer-facing digital channels. Solely developed the website for a sister company called ​Serviced Apartments​ using Wordpress. Handled the Designing, Developing, Digital Marketing, Google Analysis, Google Tag Manager, and SEO of the company. Created Landing Pages for specific projects which successfully increased the company's business by 20%. Created a website for a Property Maintenance Company which brought the business a wide number of new opportunities and increased the number of customers by 60%.",
-        date: "(Jul 2019 - Present)",
+        title: "Executive - Data Analyst",
+        subtitle: "Dubai Integrated Economic Zone Authority (DIEZA) | Dubai",
+        description: "Design and build an end to end analytics Data lake and Data Warehouse using Azure Cloud Services in a team. Data integration components using a mix of On-Premise and Cloud data sources using Azure Data Factory. Data integration from technologies like database as well as modern cloud based sources like Web Services, APIs etc. Proficient in using data sources like Salesforce, Oracle CRM, Oracle EBS(On-Premise), Oracle Fusion, MS Dynamics CRM and MS Dynamics Finance & Operations ERP. Data transformations, Enrichment and Processing using Azure Databricks. Design and Build Lakehouse components using Hive tables (In-Memory & External) in Azure Databricks. Design and build PySpark based scripts for data processing within the lakehouse. Built automated dashboards on Power BI to visualize KPIs, trends and actionable insights saving 10 hours per week of manual reporting work. Build Business Alerts through emails over lakehouse using PySpark/Python components. Developed automated scripts for Data Quality based on business requirements in PySpark and Scala to clean 25+ years old data in an automated way.Design and build an end to end analytics Data lake and Data Warehouse using Azure Cloud Services in a team. Data integration components using a mix of On-Premise and Cloud data sources using Azure Data Factory. Data integration from technologies like database as well as modern cloud based sources like Web Services, APIs etc. Proficient in using data sources like Salesforce, Oracle CRM, Oracle EBS(On-Premise), Oracle Fusion, MS Dynamics CRM and MS Dynamics Finance & Operations ERP. Data transformations, Enrichment and Processing using Azure Databricks. Design and Build Lakehouse components using Hive tables (In-Memory & External) in Azure Databricks. Design and build PySpark based scripts for data processing within the lakehouse. Built automated dashboards on Power BI to visualize KPIs, trends and actionable insights saving 10 hours per week of manual reporting work. Build Business Alerts through emails over lakehouse using PySpark/Python components. Developed automated scripts for Data Quality based on business requirements in PySpark and Scala to clean 25+ years old data in an automated way.",
+        date: "(Jun 2021 - Present)",
+        icon: "ti-heart",
+    },
+    {
+        title: "Senior Software Developer",
+        subtitle: "TechCarrot | Dubai",
+        description: "Developed and implemented the CRM and booking management system which handled 50+ bookings per day in a team using MERN stack (Mongo DB, Express JS, React and Node JS) in a team of 3 people. Developed and implemented RESTful APIs for seamless integration with external systems , resulting in enhanced interoperability. Developed Wordpress plugins based on business requirements using Python and PHP. Designed, developed, and maintained 5+ data pipelines to support clients business needs in PySpark. Joined the senior data engineers in designing ETL processes to help consolidate data in a single repository.",
+        date: "(Jul 2020 - Jun 2021)",
+        icon: "ti-ruler-alt-2",
+    },
+    {
+        title: "Software Developer",
+        subtitle: "Mpliphi Tech - FZE | Dubai",
+        description: "Developed a Mini-Program App on WeChat for a Real Estate startup catering to rental and sale for properties in Dubai. REST API and data model development in a Java/Spring MVC web application . Successfully conducted the testing of the APIs. Participated in code reviews and provided constructive feedback to improve code quality and maintainability. Implemented search engine optimization techniques, improving website visibility and driving organic traffic growth. Developed a responsive site along with a team of two for AmsportME and Bits Pilani based on PHP. Designed, Developed and Deployed the solutions on various hosting providers like Bluehost and ZOHO. Managed the User Acceptance Testing and roll out of the site for AmsportME and Bits Pilani.",
+        date: "(Jan 2019 - Jun 2020)",
         icon: "ti-pencil-alt",
     },
     {
         title: "Intern @ Software Development",
         subtitle: "Kemipex FZE | Dubai",
-        description: "Successfully completed multiple project and implemented them which helped the company save time and increase their efficiency. Created a scorecard to improve channel partners sales and service performance. Implemented the scorecard across 6 cities and more than 100 channel partners. Utilized analytical tools such as SPSS, Access, Excel to generate models for analysis. Undertook thorough market scans to identify performance of client vis-à-vis its competitors. Created analytical models to identify network enhancement requirements based on multiple variables. Developed the main website of the company detailing the Product offerings and the commerce features using PHP.",
+        description: "Created a scorecard to improve channel partners sales and service performance. Implemented the scorecard across 6 cities and more than 100 channel partners. Developed in-house web-applications catering to business needs like “In-House CRM” using PHP (Laravel), “Label Printing App” using Python (Flask) and “Attendance System” (React). Developed the main website of the company detailing the Product offerings and the commerce features using HTML, JaveScript, CSS and PHP.",
         date: "(Aug 2018 - Jan 2019)",
         icon: "ti-heart",
     },
     {
         title: "Intern @ Software Development",
         subtitle: "FlyNava Technologies | Bangalore",
-        description: "Led a team of three people and successfully completed the project in the given timeline. Developed an Android app for the software named Jupiter. The app displayed Market Performance and analysis in an organized manner and managed the UI module perfectly.",
+        description: "Led a team of three people and successfully completed the project in the given timeline. Developed an Android app for a web based software which displayed Market Performance and analysis in an organized manner and managed the UI module perfectly.",
         date: "(Jun 2017 - Aug 2017)",
         icon: "ti-paint-bucket",
     },
