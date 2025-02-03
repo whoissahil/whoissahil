@@ -68,7 +68,7 @@ function Intro() {
                         </h1>
                         <div className="el-icon">
                             <p className="el-icon-title">
-                                <span role="img" aria-label="document">📄</span> <a href="https://drive.google.com/file/d/1f8YoRtEnOG7RZKcHjelrVVgLeMcC_9eu/view?usp=sharing" target="_blank" rel="noopener noreferrer">Brag-Sheet (CV).</a>
+                                <span role="img" aria-label="document">📄</span> <a href="https://drive.google.com/file/d/1O4vNeur5qzI0F54LArsUnlWl3HvCMISg/view?usp=share_link" target="_blank" rel="noopener noreferrer">Brag-Sheet (CV).</a>
                             </p>
                         </div>
                         <br />
