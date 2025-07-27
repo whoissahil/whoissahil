@@ -59,7 +59,6 @@ function Intro() {
                             I'm a{" "}
                             <TextLoop>
                                 <span>Data Analyst</span>
-
                                 <span>Web Developer</span>
                                 <span>Writer</span>
                             </TextLoop>
@@ -68,7 +67,7 @@ function Intro() {
                         </h1>
                         <div className="el-icon">
                             <p className="el-icon-title">
-                                <span role="img" aria-label="document">📄</span> <a href="https://drive.google.com/file/d/1O4vNeur5qzI0F54LArsUnlWl3HvCMISg/view?usp=share_link" target="_blank" rel="noopener noreferrer">Brag-Sheet (CV).</a>
+                                <span role="img" aria-label="document">📄</span> <a href="https://drive.google.com/file/d/1QxCERUwDfCqYnZaJbk-JN0m9cfYh1ixg/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Brag-Sheet (CV).</a>
                             </p>
                         </div>
                         <br />
