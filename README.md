@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Sahil 🤷🏼‍♂️
-I am a Computer Science Engineer from BITS Pilani, Dubai Campus. A business-focused individual who aspires to contribute through my experience in Data Science and Analytics. I have experience in Full Stack Web Development / App Development and have proficiency in more than five computer languages including Python, JavaScript, C/C++ and more.
-
-Good with management skills and public speaking. I've also worked across a wide array of industry 4.0 technologies including Big Data, Blockchain, machine learning, AI, AR, and IoT. Basically, While ( ! ( succeed = try() ) ); 
+A business-focused Computer Science Graduate who aspires to contribute through my experience in Data Science and Analytics. I've worked across a wide array of industry 4.0 technologies including Software Development, Web Development, Big Data, ML, and Artificial Intelligence. I have proficiency in more than five computer languages including Python, JavaScript, C/C++ and Java. Good with management skills and public speaking. Basically, While ( ! ( succeed = try() ) );
 
 - 🔭 I’m currently a Data Analyst
 - 🌱 Now, I'm getting my hands dirty on Data Science 
